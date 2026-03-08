@@ -1,6 +1,7 @@
 # Welcome to MoniaMG.github.io
 
-![image](files/Users/jzhang/Desktop/Isolated.png)
+
+![Snowdropjes](https://github.com/user-attachments/assets/53a962e7-00aa-48e8-ade7-bcaf1f82b759)
 
 This space might with time become my static webpage.
 <html>
