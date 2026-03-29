@@ -1,6 +1,6 @@
 # Angličtina
 ## I pro dislektiky, introverty, IT profesionály...
-<img src="https://github.com/user-attachments/assets/c8fd96a6-a9db-4be9-a2e3-e49f1bb95b16" width="700" height="350">
+<img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
 ## Spolupráce:
 <ul><li>Tradičně - u mě (Černilov) nebo u žáka
@@ -9,24 +9,24 @@
 <li>Real life input - praktické lekce: dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
 <li>Pomoc v přípravě prezentací či projevů</li>
 
-## Ceník
-<ul><li>Lekce 60 minut: v týdnu 500Kč, o víkendu 600Kč</li>
-<li>PŘÍPLATEK za dojíždění: mikroregion Černilov *zdarma*;
+<h2>Ceník</h2> 
+<ul><li>Lekce 60 minut: pracovní dny 500Kč; víkendy a svátky 600Kč</li>
+<li>Příplatek za dojíždění: mikroregion Černilov <bold>zdarma</bold>;
 mimo mikroregion Černilov od 100Kč</li>
 
 ********************************************************************************
 
-## Moje vzdělání a praxe:
+<h2>Moje vzdělání a praxe:</h2>
 
 <ul><li>Cambridge Proficiency Exam</li>
 <li>Mgr slovanské jazykovědy - Jagellonská Uverzita</li>
 <li>7 let praxe ve školách + soukromé hodiny</li>
 <li>16 let dokumentace softwaru v EN</li>
 
-## Kontakt:
-### Monika Machnik-Gill
-### 608 652 794
-### monia@machnik.eu
+<h2>Kontakt:</h2>
+<h3> Monika Machnik-Gill</h3> Monika Machnik-Gill
+<h3>608 652 794</h3>608 652 794
+<h3>monia@machnik.eu</h3>
 
 <img src="https://github.com/user-attachments/assets/53a962e7-00aa-48e8-ade7-bcaf1f82b759" width="1000" height="500">
 <html>
