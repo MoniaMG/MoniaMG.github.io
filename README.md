@@ -1,5 +1,5 @@
-# Angličtina
-## I pro dislektiky, introverty, IT profesionály...
+<h1>Angličtina</h1>
+<h2>I pro dislektiky, introverty, IT profesionály...</h2>
 <img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
 <h2> Spolupráce:</h2>
