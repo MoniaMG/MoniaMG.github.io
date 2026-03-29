@@ -14,10 +14,7 @@
 <li>Příplatek za dojíždění: mikroregion Černilov <bold>zdarma</bold>;
 mimo mikroregion Černilov od 100Kč</li></ul>
 
-********************************************************************************
-
 <h2>Moje vzdělání a praxe:</h2>
-
 <ul><li>Cambridge Proficiency Exam</li>
 <li>Mgr slovanské jazykovědy - Jagellonská Univerzita</li>
 <li>7 let praxe ve školách + soukromé hodiny</li>
