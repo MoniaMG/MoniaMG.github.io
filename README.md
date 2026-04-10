@@ -1,12 +1,12 @@
 <h1>Angličtina</h1>
-<h2>I pro dislektiky, introverty, IT profesionály...</h2>
+<h2>I pro dyslektiky, introverty, IT profesionály...</h2>
 <img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
 <h2> Spolupráce:</h2>
 <ul><li>Tradičně - u mě (Černilov) nebo u žáka
 <li>Peripateticky - procházíte se přírodou a zároveň polishujete svůj English; po každé hodině Vám posílám sepsáné shrnutí</li>
 <li>Online</li>
-<li>Real life input - praktické lekce: dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
+<li>Praktické lekce: dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
 <li>Pomoc v přípravě prezentací či projevů</li></ul>
 
 <h2>Ceník</h2> 
