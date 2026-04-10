@@ -1,12 +1,13 @@
 <h1>Anglická konverzace a doučování bez ohledu na věk</h1>
 <h2>Účinná pomoc i pro IT profesionály, dyslektiky, nerdy a introverty</h2>
+<h2>Rozumím i ukrajinsky </h2>
 <img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
-<h2> Spolupráce:</h2>
-<ul><li>Tradičně - u mě (Černilov) nebo u žáka
-<li>Peripateticky - procházíte se přírodou a zároveň polishujete svůj English; po každé hodině Vám posílám sepsáné shrnutí</li>
+<h2> Nabízím hodiny:</h2>
+<ul><li>Tradiční - u mě (Černilov) nebo u žáka
+<li>Peripatetické - procházíte se přírodou a zároveň polishujete svůj English; po každé hodině Vám posílám sepsáné shrnutí</li>
 <li>Online</li>
-<li>Praktické lekce: dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
+<li>Praktické - dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
 <li>Pomoc v přípravě prezentací či projevů</li>
 
 <h2>Ceník</h2> 
@@ -18,7 +19,7 @@ mimo mikroregion Černilov od 50Kč</li></ul>
 <h2>Moje vzdělání a praxe:</h2>
 <ul><li>Cambridge Proficiency Exam</li>
 <li>Mgr slovanské jazykovědy - Jagellonská Univerzita</li>
-<li>5+ let praxe ve školách + soukromé hodiny</li>
+<li>5+ let praxe ve školách + spousta soukromých hodin</li>
 <li>10+ let dokumentace softwaru a microcopy v EN</li></ul>
 
 <h2>Kontakt:</h2>
