@@ -12,9 +12,9 @@
 
 <h2>Ceník</h2> 
 <ul><li>Lekce 60 minut: pracovní dny 500Kč; víkendy a svátky 600Kč</li>
-<li>Příplatek za dojíždění: <br>mikroregion Černilov 0Kč;
+<li>Příplatek za dojíždění: <br>Černilovský mikroregion 0Kč;
 <br>
-mimo mikroregion Černilov od 50Kč</li></ul>
+mimo mikroregion od 50Kč</li></ul>
 
 <h2>Moje vzdělání a praxe:</h2>
 <ul><li>Cambridge Proficiency Exam</li>
