@@ -1,7 +1,7 @@
 <h1>Anglická konverzace a doučování bez ohledu na věk</h1>
 <h2>Účinná pomoc i pro IT profesionály, dyslektiky, nerdy a introverty</h2>
 <h2>Rozumím i ukrajinsky </h2>
-<h2>Vibe check (první inromativní setkání) cca 30 minut zdarma</h2>
+<h2>Vibe check (první informativní setkání) cca 30 minut zdarma</h2>
 
 <img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
