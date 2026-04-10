@@ -6,7 +6,7 @@
 <h2> Nabízím hodiny:</h2>
 <ul><li>Tradiční - u mě (Černilov) nebo u žáka
 <li>Venku v pohybu - procházíte se přírodou a zároveň polishujete svůj English; po každé hodině Vám posílám sepsáné shrnutí</li>
-<li>Online</li>
+<li>Online - podle potřeby po hodině posílám shrnutí</li>
 <li>Praktické - dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
 <li>Pomoc v přípravě prezentací či projevů</li>
 
