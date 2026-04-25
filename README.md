@@ -1,7 +1,7 @@
 <h1>Anglická konverzace a doučování bez ohledu na věk</h1>
-<h2>Účinná pomoc i pro IT profesionály, dyslektiky, nerdy a introverty</h2>
-<h2>Rozumím i ukrajinsky </h2>
-<h2>Vibe check (první informativní setkání) cca 30 minut zdarma</h2>
+<h2>Účinná pomoc i pro IT profesionály, dyslektiky, introverty a nerdy :)</h2>
+<br>
+<h2>* Vibe check (první informativní setkání cca 30 minut) ZDARMA *</h2>
 
 <img src="https://github.com/user-attachments/assets/2ab0c333-c4eb-44b1-aa67-21b85c42f774">
 
@@ -12,17 +12,23 @@
 <li>Praktické - dle dohody, třeba při práci na zahradě, kutilských aktivitách či u vaření, nákupu, etc.; po hodině posílám shrnutí</li>
 <li>Pomoc v přípravě prezentací či projevů</li>
 
+<h4>* Rozumím i ukrajinsky * </h4>
+
 <h2>Ceník</h2> 
-<ul><li>Lekce 60 minut: pracovní dny 500Kč; víkendy a svátky 600Kč</li>
-<li>Příplatek za dojíždění: <br>Černilovský mikroregion 0Kč;
-<br>
-mimo mikroregion od 50Kč</li></ul>
+<ul><li>Lekce 60 minut:<br>
+  - pracovní dny 500Kč; <br>
+  - víkendy a svátky 600Kč</li>
+  <br>
+  <br>
+<li>Příplatek za dojíždění: <br>
+  - Černilovský mikroregion 0Kč; <br>
+  - mimo mikroregion od 50Kč</li></ul>
 
 <h2>Moje vzdělání a praxe:</h2>
 <ul><li>Cambridge Proficiency Exam</li>
 <li>Mgr slovanské jazykovědy - Jagellonská Univerzita</li>
-<li>5+ let praxe ve školách + spousta soukromých hodin</li>
-<li>10+ let dokumentace softwaru a microcopy v EN</li></ul>
+<li>7 let praxe ve školách + spousta soukromých hodin</li>
+<li>16 let dokumentace softwaru + microcopy v EN</li></ul>
 
 <h2>Kontakt:</h2>
 <h3> Monika Machnik-Gill</h3>
